@@ -24,10 +24,11 @@ Report’s objective is to understand the paper first but also to critic it as m
 
 # Project' Architecture
 
-Presentation : 
+## Presentation : 
+
   PDF : Report Volatility is rough.pdf
   
-Resutls :
+## Resutls :
 
   Results have been backtested on Covid and Pre-covid period
   1) Covid period     : volatility_is_rough_covid.html
