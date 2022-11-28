@@ -21,3 +21,13 @@ In this paper it is shown that the autocorrelation function of volatility does n
 In the field, the volatility surface is modelized by SVI which is homogenous, and the homogenous models are Hull & White model or Heston model. But they do not correspond to the surface of the volatility. On the other side from the paper of Fukusawa which will be described later, authors found out that the surface of volatility can be modelized by the fractional Brownian Motion. They will use in this model a volatility with fractional Brownian motion with a Hurst parameter less than 1⁄2 which can be consistent with the empirically observed specific property of volatility time series but also with the shape of the volatility surface. They focus on modeling the volatility time series.
 
 Report’s objective is to understand the paper first but also to critic it as much as possible in a constructive way. To do so, we have studied the environment around the paper thanks to a short but explicit literature review. After that, we focused on the main theory, ideas and equation which are developed in the paper. Then, main results are discussed, interpreted, and implemented over another time-period. Finally, we brought a critic of the paper. Beside of this report we implement all the key results in Python.
+
+# Project' Architecture
+
+Presentation : 
+  PDF : Report Volatility is rough.pdf
+Resutls :
+  Results have been backtested on Covid and Pre-covid period
+  1) Covid period     : volatility_is_rough_covid.html
+  2) Pre-Covid period : volatility_is_rough.html
+    
