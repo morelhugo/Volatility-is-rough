@@ -30,7 +30,15 @@ Report’s objective is to understand the paper first but also to critic it as m
   
 ## Resutls :
 
-  Results have been backtested on Covid and Pre-covid period
+  Results have been backtested on Covid and Pre-Covid period
   1) Covid period     : volatility_is_rough_covid.html
   2) Pre-Covid period : volatility_is_rough.html
     
+## Data & Notebook :
+
+  Notebook : Volatility is Rough.ipynb
+  
+  Data : oxfordmanrealizedvolatilityindices.csv.zip
+ 
+  
+  
