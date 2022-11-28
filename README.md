@@ -26,7 +26,9 @@ Report’s objective is to understand the paper first but also to critic it as m
 
 Presentation : 
   PDF : Report Volatility is rough.pdf
+  
 Resutls :
+
   Results have been backtested on Covid and Pre-covid period
   1) Covid period     : volatility_is_rough_covid.html
   2) Pre-Covid period : volatility_is_rough.html
